@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is Siyu Zhou's home on the web!
+
+I am currently a research assistant in the School of Data Science, City University of Hong Kong, working with [Prof. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Prof. Zhi Chen](https://sites.google.com/view/z-chen/home) on some interesting problems in Safe Reinforcement Learning, specifically, Robust MDP and Data-Driven Optimization. 
+
+I was a student from the School of Mathematics at the University of Edinburgh (Edinburgh, UK), pursuing a master's degree in Operational Research with Data Science, and fortunately to be advised by [Prof. Emre Alper YILDIRIM](https://www.maths.ed.ac.uk/~yildirim/index.html). Before that, I got a master's degree from Chongqing University (Chongqing, China) and worked as an intern in the Institute of Computing Technology, Chinese Academy of Sciences (Beijing, China) for half a year.
+
+*Research interests*: Machine Learning, Reinforcement Learning, Deep Learning, Data Mining, Graph Neural Network, Optimization Algorithm, Robust Optimization, Convex and Nonconvex Optimization, Time Series Analysis and Renewable Energy.
+
+
+
 
 A data-driven personal website
 ======

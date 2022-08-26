@@ -4,9 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
 * denotes equal contribution
-
 
 ## Conferences
 * (under review) Robust Satisficing MDPs. <br>

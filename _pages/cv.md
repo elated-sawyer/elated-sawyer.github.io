@@ -30,6 +30,7 @@ Work experience
   * Duties included: Deploy, manage and maintain the cloud computing clusters; Research mainstream AutoML methods.
   
   
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -41,7 +42,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->

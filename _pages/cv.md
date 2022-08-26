@@ -18,30 +18,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.09~2022.08
+  * School of Data Science, City University of Hong Kong, Hong Kong SAR, China
+  * Research Assistant
+  * Research Topics: Model-based Reinforcement Learning; Robust Optimization; Optimization Algorithm.
+  * Advised by [Prof. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Prof. Zhi Chen](https://sites.google.com/view/z-chen/home)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.09~2019.03
+  * Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China
+  * Research Assistant
+  * Duties included: Deploy, manage and maintain the cloud computing clusters; Research mainstream AutoML methods.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======

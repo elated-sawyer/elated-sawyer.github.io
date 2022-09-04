@@ -16,10 +16,6 @@ redirect_from:
 
 
 ## Work experience
-* 2022.09~present <br> Research Assistant <br> Machine Intelligence Laboratory (MiLAB), Westlake University, Hangzhou, China
-  * Research Topics: Deep Reinforcement Learning; Robust Reinforcement Learning; Offline Learning.
-  * Advised by [Dr. Donglin Wang](https://milab.westlake.edu.cn/index.html)
-
 * 2021.09~2022.08 <br> Research Assistant <br> School of Data Science, City University of Hong Kong, Hong Kong SAR, China
   * Research Topics: Model-based Reinforcement Learning; Robust Optimization; Optimization Algorithm.
   * Advised by [Dr. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home)
@@ -29,6 +25,10 @@ redirect_from:
   
   
 <!---
+* 2022.09~present <br> Research Assistant <br> Machine Intelligence Laboratory (MiLAB), Westlake University, Hangzhou, China
+  * Research Topics: Deep Reinforcement Learning; Robust Reinforcement Learning; Offline Learning.
+  * Advised by [Dr. Donglin Wang](https://milab.westlake.edu.cn/index.html)
+
 Talks
 ======
   <ul>{% for post in site.talks %}

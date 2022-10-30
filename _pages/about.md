@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant in the School of Data Science, City University of Hong Kong, working with [Dr. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home) on some interesting problems in Safe Reinforcement Learning, specifically, Robust MDP and Data-Driven Optimization. 
+I am currently a research assistant in the School of Data Science, City University of Hong Kong, advised by [Dr. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home) on some interesting problems in Safe Reinforcement Learning, specifically, Robust MDP and Data-Driven Optimization. 
 
 I was a student from the School of Mathematics at the University of Edinburgh (Edinburgh, UK), pursuing a master's degree in Operational Research with Data Science, and fortunately to be advised by [Dr. Emre Alper YILDIRIM](https://www.maths.ed.ac.uk/~yildirim/index.html). Before that, I got a master's degree from Chongqing University (Chongqing, China), focusing on the application of machine learning techniques in renewable energy, and worked as an intern in the Institute of Computing Technology, Chinese Academy of Sciences (Beijing, China) for half a year.
 

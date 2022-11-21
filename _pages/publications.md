@@ -6,10 +6,15 @@ author_profile: true
 ---
 (* denotes equal contribution)
 
+## Working Paper
+* Robust Satisficing MDPs. <br>
+<i>  NIPS2022 reject, score: 7644; preparing for ICML 2023 </i> <br>
+
+* Vertical Federated Model Based Reinforcement Learning. <br>
+<i>  preparing for IJCAI 2023 </i> <br>
+
+
 ## Conferences
-* (under review) Robust Satisficing MDPs. <br>
- **Siyu Zhou**, Haolin Ruan, Zhi Chen, Chin Pang Ho. <br>
-<i>  Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. </i> <br>
 
 * [Transfer Learning for Photovoltaic Power Forecasting with Long Short-Term Memory Neural Network.](https://ieeexplore.ieee.org/document/9070676) <br>
  **Siyu Zhou**, Lin Zhou, Mingxuan Mao. <br>

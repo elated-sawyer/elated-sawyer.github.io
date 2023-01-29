@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant in the School of Data Science, City University of Hong Kong, advised by [Dr. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home), working on some interesting problems in Safe Reinforcement Learning, specifically, Robust MDP and Data-Driven Optimization. 
+I am working as a remote research assistant with [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/) on model-based reinforcement learning, federated Learning and offline learning. Before that, I was a research assistant in the School of Data Science, City University of Hong Kong, advised by [Dr. Clint Chin Pang Ho](https://guodonglong.github.io/) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home), working on safe reinforcement learning, specifically, robust MDP and data-driven optimization. 
 
-I was a student from the School of Mathematics at the University of Edinburgh (Edinburgh, UK), pursuing a master's degree in Operational Research with Data Science, and fortunately to be advised by [Dr. Emre Alper YILDIRIM](https://www.maths.ed.ac.uk/~yildirim/index.html). Before that, I got a master's degree from Chongqing University (Chongqing, China), focusing on the application of machine learning techniques in power systems, and worked as an intern in the Institute of Computing Technology, Chinese Academy of Sciences (Beijing, China) for half a year.
+I was a student from the School of Mathematics at the University of Edinburgh (Edinburgh, UK), pursuing a master's degree in Operational Research with Data Science, and fortunately to be advised by [Dr. Emre Alper YILDIRIM](https://www.maths.ed.ac.uk/~yildirim/index.html). Before that, I got a master's degree from Chongqing University (Chongqing, China), focusing on machine learning & time series analysis & power systems.
 
 *Research interests*: Machine Learning, Reinforcement Learning, Deep Learning, Data Mining, Robust Optimization, Optimization Algorithm, Convex and Nonconvex Optimization, Time Series Analysis and Power Systems.
 

@@ -16,7 +16,7 @@ redirect_from:
 
 
 ## Work experience
-* 2021.10~present <br> Remote Research Assistant <br> School of Computer Science, University of Technology Sydney, Sydney, Australia
+* 2022.10~present <br> Remote Research Assistant <br> School of Computer Science, University of Technology Sydney, Sydney, Australia
   * Research Topics: Model-based Reinforcement Learning; Federated Learning; Offline Learning.
   * Advised by [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/)
 

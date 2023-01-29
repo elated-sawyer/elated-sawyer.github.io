@@ -16,8 +16,12 @@ redirect_from:
 
 
 ## Work experience
+* 2021.10~present <br> Remote Research Assistant <br> School of Computer Science, University of Technology Sydney, Sydney, Australia
+  * Research Topics: Model-based Reinforcement Learning; Federated Learning; Offline Learning.
+  * Advised by [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/)
+
 * 2021.09~2022.08 <br> Research Assistant <br> School of Data Science, City University of Hong Kong, Hong Kong SAR, China
-  * Research Topics: Model-based Reinforcement Learning; Robust Optimization; Optimization Algorithm.
+  * Research Topics: Decision Making under Uncertainty; Model-based Reinforcement Learning; Robust Optimization; Optimization Algorithm.
   * Advised by [Dr. Clint Chin Pang Ho](https://sites.google.com/view/clint-chin-pang-ho/home) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home)
 
 * 2018.09~2019.03 <br> Cloud Engineer Intern <br> Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China

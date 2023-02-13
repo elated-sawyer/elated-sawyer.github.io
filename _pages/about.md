@@ -12,7 +12,10 @@ I am working as a remote research assistant with [A/Prof. Guodong Long](https://
 
 I was a student from the School of Mathematics at the University of Edinburgh (Edinburgh, UK), pursuing a master's degree in Operational Research with Data Science, and fortunately to be advised by [Dr. Emre Alper YILDIRIM](https://www.maths.ed.ac.uk/~yildirim/index.html). Before that, I got a master's degree from Chongqing University (Chongqing, China), focusing on machine learning & time series analysis & power systems.
 
-*Research interests*: Machine Learning, Reinforcement Learning, Deep Learning, Federated Learning, Data Mining, Robust Optimization, Optimization Algorithm, Convex and Nonconvex Optimization, Time Series Analysis and Power Systems.
+<!---
+*Research interests*: Machine Learning, Reinforcement Learning, Deep Learning, Federated Learning, Data Mining, Robust Optimization, Convex and Nonconvex Optimization, Time Series Analysis and Power Systems.
+-->
+
 
 ## Recent
 *

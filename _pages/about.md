@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am working as a remote research assistant with [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/) on model-based reinforcement learning, federated learning and offline learning. Before that, I was a research assistant in the School of Data Science, City University of Hong Kong, advised by [Dr. Clint Chin Pang Ho](https://guodonglong.github.io/) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home), working on safe reinforcement learning, specifically, robust MDP and data-driven optimization. 
+I am working as a remote research assistant with [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/) on reinforcement learning + X (e.g., federated learning, natural language processing). Before that, I was a research assistant in the School of Data Science, City University of Hong Kong, advised by [Dr. Clint Chin Pang Ho](https://guodonglong.github.io/) and [Dr. Zhi Chen](https://sites.google.com/view/z-chen/home), working on safe reinforcement learning, specifically, robust MDP and data-driven optimization. 
 
 I was a student from the School of Mathematics at the University of Edinburgh (Edinburgh, UK), pursuing a master's degree in Operational Research with Data Science, and fortunately to be advised by [Dr. Emre Alper YILDIRIM](https://www.maths.ed.ac.uk/~yildirim/index.html). Before that, I got a master's degree from Chongqing University (Chongqing, China), focusing on machine learning & time series analysis & power systems.
 

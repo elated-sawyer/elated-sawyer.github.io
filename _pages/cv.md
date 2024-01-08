@@ -16,9 +16,6 @@ redirect_from:
 
 
 ## Work experience
-* 2022.10~present <br> Remote Research Assistant <br> School of Computer Science, University of Technology Sydney, Sydney, Australia
-  * Research Topics: Reinforcement Learning + X (e.g., Federated Learning, Natural Language Processing)
-  * Advised by [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/)
 
 * 2021.09~2022.08 <br> Research Assistant <br> School of Data Science, City University of Hong Kong, Hong Kong SAR, China
   * Research Topics: Decision Making under Uncertainty; Model-based Reinforcement Learning; Robust Optimization; Optimization Algorithm.
@@ -29,6 +26,10 @@ redirect_from:
   
   
 <!---
+* 2022.10~present <br> Remote Research Assistant <br> School of Computer Science, University of Technology Sydney, Sydney, Australia
+  * Research Topics: Reinforcement Learning + X (e.g., Federated Learning, Natural Language Processing)
+  * Advised by [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/)
+
 * 2022.09~present <br> Research Assistant <br> Machine Intelligence Laboratory (MiLAB), Westlake University, Hangzhou, China
   * Research Topics: Deep Reinforcement Learning; Robust Reinforcement Learning; Offline Learning.
   * Advised by [Dr. Donglin Wang](https://milab.westlake.edu.cn/index.html)

@@ -23,10 +23,13 @@ I was a student from the School of Mathematics at the University of Edinburgh (E
 
 ## Contact
 Email: [siyu.zhou01@gmail.com](mailto:siyu.zhou01@gmail.com); [Siyu.Zhou-2@student.uts.edu.au](mailto:Siyu.Zhou-2@student.uts.edu.au); ~~syzhou2222@cityu.edu.cn~~(expired) <br>
-Address: 8 Yuexing 1st Rd, Nanshan, Shenzhen, Guangdong Province, China, 518063
+
 
 
 <!---
+Address: 8 Yuexing 1st Rd, Nanshan, Shenzhen, Guangdong Province, China, 518063
+
+
 I am working as a remote research assistant with [A/Prof. Guodong Long](https://guodonglong.github.io/) and [Dr. Tianyi Zhou](https://tianyizhou.github.io/) on reinforcement learning + X (e.g., federated learning, natural language processing). Before that, 
 
 Getting started
